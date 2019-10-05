@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def turn_count(board)
   counter = 0
   board.each do |element|
@@ -16,4 +17,8 @@ def current_player(board)
     return "X"
   end
 end
+=======
+def turn_counts(board)
+  counts = 0
+>>>>>>> 3984ef003b22570d36d8d33ca4959fe343dd2d4b
   
